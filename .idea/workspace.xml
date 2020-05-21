@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2c2aa9-411c-4caf-8936-fffdeeeaad20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/.generators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/app/controllers/hands_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/app/controllers/players_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/app/controllers/users_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/app/models/hands.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/app/models/player.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/app/models/user.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/app/services/hand_serializer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/app/services/player_serializer.rb" afterDir="false" />
-    </list>
+    <list default="true" id="cb2c2aa9-411c-4caf-8936-fffdeeeaad20" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,8 +139,16 @@
       <updated>1588686438825</updated>
       <workItem from="1588686440031" duration="4281000" />
       <workItem from="1588879336407" duration="20000" />
-      <workItem from="1590080094366" duration="2345000" />
+      <workItem from="1590080094366" duration="2609000" />
     </task>
+    <task id="LOCAL-00001" summary="Backend Updated">
+      <created>1590084712447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590084712447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,15 +156,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Backend Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backend Updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="737" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588689188045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="737" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588689188045" />
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1590084711915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590084711915" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1588879353465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588879353465" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1590084723846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590084723846" />
   </component>
 </project>
