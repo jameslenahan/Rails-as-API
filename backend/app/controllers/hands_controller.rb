@@ -1,8 +1,6 @@
 class HandsController < ApplicationController
   def create
-    hand = Hand.new(
-
-    )
+    hand = Hand.new()
   end
   def destroy
     hand = Hand.find_by(id: params[:id])
